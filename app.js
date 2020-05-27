@@ -49,7 +49,7 @@ const nextBtn= document.querySelector(".next-btn");
 const randomBtn= document.querySelector(".random-btn");
 
 // set starting item
-let currentItem = 2;
+let currentItem = 1;
 
 // load intial item
 window.addEventListener("DOMContentLoaded", function ()
